@@ -56,7 +56,7 @@ The documentation for this project has been moved to [scanapp.org/html5-qrcode-d
 
 -   [Getting started](https://scanapp.org/html5-qrcode-docs/docs/intro)
 -   [Supported frameworks](https://scanapp.org/html5-qrcode-docs/docs/supported_frameworks)
--   [Supported 1D and 2D Code formats](https://scanapp.org/html5-qrcode-docs/docs/supported_code_formats)
+-   [Supported 1D and 2D Code formats](https://www.zxingorg.com)
 -   [Detailed API documentation](https://scanapp.org/html5-qrcode-docs/docs/apis)
 
 ## Supported platforms
